@@ -1,1 +1,5 @@
-# SouravK_8952870
+Name : Sourav Kajal
+
+Project Title : Lab 3
+
+Student Id : 8952870
